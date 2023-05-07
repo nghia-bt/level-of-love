@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/level-of-love/static/css/main.0e5858ee.css",
-    "main.js": "/level-of-love/static/js/main.4ff1b455.js",
+    "main.js": "/level-of-love/static/js/main.7aa2992a.js",
     "static/js/3.8c883e40.chunk.js": "/level-of-love/static/js/3.8c883e40.chunk.js",
     "static/media/paris2.jpg": "/level-of-love/static/media/paris2.1ec0371d6e2a32a0d846.jpg",
     "index.html": "/level-of-love/index.html",
     "main.0e5858ee.css.map": "/level-of-love/static/css/main.0e5858ee.css.map",
-    "main.4ff1b455.js.map": "/level-of-love/static/js/main.4ff1b455.js.map",
+    "main.7aa2992a.js.map": "/level-of-love/static/js/main.7aa2992a.js.map",
     "3.8c883e40.chunk.js.map": "/level-of-love/static/js/3.8c883e40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e5858ee.css",
-    "static/js/main.4ff1b455.js"
+    "static/js/main.7aa2992a.js"
   ]
 }
